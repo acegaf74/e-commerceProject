@@ -6,6 +6,6 @@
     <title>e-commerceProject</title>
 </head>
 <body>
-    <h1>Hello World!</h1>
+    <h1>e-commerceProject</h1>
 </body>
 </html>
