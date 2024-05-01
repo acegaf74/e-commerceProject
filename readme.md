@@ -1,1 +1,1 @@
-<h1>eCommerceProject</h1>
+<h1>e-commerceProject</h1>
